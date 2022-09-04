@@ -1,0 +1,28 @@
+{
+  "name": "reatom-todo-app-v3-v1",
+  "version": "1.0.0",
+  "description": "A todo list app with React-Redux and redux-steroid (with normalized store shape).",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@reatom/core": "alpha",
+    "@reatom/core-v1": "alpha",
+    "@reatom/hooks": "alpha",
+    "@reatom/react-v1": "alpha",
+    "classnames": "2.2.6",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-redux": "5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "4.0.0",
+    "redux-devtools-extension": "2.13.8",
+    "redux-logger": "3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
